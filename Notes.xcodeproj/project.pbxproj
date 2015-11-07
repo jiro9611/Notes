@@ -46,6 +46,8 @@
 		82FE51771BEDCE8C0017AE6B /* step5-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 82FE51691BEDCE8C0017AE6B /* step5-2.png */; };
 		82FE51781BEDCE8C0017AE6B /* step5-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 82FE516A1BEDCE8C0017AE6B /* step5-3.png */; };
 		82FE51791BEDCE8C0017AE6B /* step5.png in Resources */ = {isa = PBXBuildFile; fileRef = 82FE516B1BEDCE8C0017AE6B /* step5.png */; };
+		82FE517C1BEDD4570017AE6B /* step6.png in Resources */ = {isa = PBXBuildFile; fileRef = 82FE517A1BEDD4570017AE6B /* step6.png */; };
+		82FE517D1BEDD4570017AE6B /* step6-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 82FE517B1BEDD4570017AE6B /* step6-1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -112,6 +114,8 @@
 		82FE51691BEDCE8C0017AE6B /* step5-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "step5-2.png"; sourceTree = "<group>"; };
 		82FE516A1BEDCE8C0017AE6B /* step5-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "step5-3.png"; sourceTree = "<group>"; };
 		82FE516B1BEDCE8C0017AE6B /* step5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step5.png; sourceTree = "<group>"; };
+		82FE517A1BEDD4570017AE6B /* step6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step6.png; sourceTree = "<group>"; };
+		82FE517B1BEDD4570017AE6B /* step6-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "step6-1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -252,6 +256,8 @@
 				82FE51691BEDCE8C0017AE6B /* step5-2.png */,
 				82FE516A1BEDCE8C0017AE6B /* step5-3.png */,
 				82FE516B1BEDCE8C0017AE6B /* step5.png */,
+				82FE517A1BEDD4570017AE6B /* step6.png */,
+				82FE517B1BEDD4570017AE6B /* step6-1.png */,
 			);
 			path = Notes_app_tutorial_img;
 			sourceTree = "<group>";
@@ -370,9 +376,11 @@
 				82FE516F1BEDCE8C0017AE6B /* step3-1.png in Resources */,
 				82CD201C1BEC8B56000DEAD9 /* Assets.xcassets in Resources */,
 				82FE51701BEDCE8C0017AE6B /* step3-3-1.png in Resources */,
+				82FE517C1BEDD4570017AE6B /* step6.png in Resources */,
 				82FE51721BEDCE8C0017AE6B /* step3.png in Resources */,
 				82FE516E1BEDCE8C0017AE6B /* step2.png in Resources */,
 				82FE51751BEDCE8C0017AE6B /* step4-3.png in Resources */,
+				82FE517D1BEDD4570017AE6B /* step6-1.png in Resources */,
 				82CD201A1BEC8B56000DEAD9 /* Main.storyboard in Resources */,
 				82FE51761BEDCE8C0017AE6B /* step5-1.png in Resources */,
 				82FE51781BEDCE8C0017AE6B /* step5-3.png in Resources */,
