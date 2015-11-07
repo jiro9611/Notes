@@ -1,5 +1,9 @@
 # [iOS] Notes App 101
 
+This Notes project are a tutorial project from Vea Software. For best guides to other friends who also interested it, I make a documentation to make this tutorial more clear to follow step by step by wording, not just video.
+
+If any other friends want to translate it into Chinese version, welcome to fork this project. Let's make friend!
+
 [Tutorial video on Youtube](https://www.youtube.com/watch?v=35XTc5X_vkk&list=PLVbJM_d1L3gQ0dzZCUkLwhadm7l-g7ZiD) by Vea Software
 
 ## 1.Create new repository in Parse
@@ -48,3 +52,14 @@ Even project is swift but sometime other plugin or framework may code in objecti
 ![Image of step3-1](Notes_app_tutorial_img/step5-3.png)
 6. The original path will be static, but we will change it into "$PROJECT_DIR/Notes/Briding-Header.h". Therefore when other people download your project will automatically find out the correct path in their computer.
 
+## 6. Import Parse in the Bridging-header
+1. Now, you can go to the Bridging-header file add up the code below.
+```
+#import <Parse/Parse.h>
+```
+![Image of step3-1](Notes_app_tutorial_img/step6.png)
+2. But right now Parse already have Swift project option, therefore, you may no need to add the bridging header. Just import the parse framework in swift way.
+```
+import Parse
+```
+![Image of step3-1](Notes_app_tutorial_img/step6-1.png)
